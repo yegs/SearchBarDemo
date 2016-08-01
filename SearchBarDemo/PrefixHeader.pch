@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  SearchBarDemo
+//
+//  Created by yeguoshuai on 16/7/28.
+//  Copyright © 2016年 AK. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+#endif /* PrefixHeader_pch */

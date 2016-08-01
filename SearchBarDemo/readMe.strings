@@ -1,0 +1,10 @@
+/*
+self.tableView.tableHeaderView = [[PopSearchView alloc] initWithPlaceHolder:@"快来搜索吧~~~"];
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ */
